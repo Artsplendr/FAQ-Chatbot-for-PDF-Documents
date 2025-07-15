@@ -14,7 +14,7 @@ To build an interactive chatbot that allows users to ask questions and receive a
 ## Tech Stack
   *  PDF Parsing: **PyMuPDF** enables accurate and fast text extraction from PDF files.
   *  LLM Framework: **LangChain** orchestrates the retrieval and response generation.
-  *  Embeddings: **OpenAIEmbedding** is used for high-quality vector representations.
+  *  Embeddings: **OpenAIEmbeddings** is used for high-quality vector representations.
   *  Vector Store: **FAISS** allows efficient similarity search over embedded document chunks.
   *  LLM: **GPT-3.5-turbo from OpenAI** provides the language understanding and response generation.
 
