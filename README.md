@@ -20,9 +20,13 @@ To build an interactive chatbot that allows users to ask questions and receive a
 
 ## Data Source
 Title: "Extending Human Creativity with AI"
+
 Authors: Katherine O’Toole & Emőke-Ágnes Horvát
+
 Published in: Journal of Creativity, 2024
+
 License: CC BY-NC-ND (Open Access)
+
 This publication is available at the [following link](https://www.sciencedirect.com/science/article/pii/S2713374524000062?via%3Dihub).
 
 ## How It Works
